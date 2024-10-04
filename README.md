@@ -33,123 +33,54 @@ Este é um projeto de Sistema de Rotas de Ônibus desenvolvido para auxiliar na 
 
 ### Passos para rodar o projeto:
 
-1. **Clone o repositório**:
-   ```bash
+### 1. **Clone o repositório**:
+
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-Instale as dependências no diretório backend:
+### 2. **Instale as dependências no diretório backend**:
 
-bash
-Copiar código
 cd backend
 npm install
-Configure o MongoDB: Certifique-se de que o MongoDB está rodando na porta padrão 27017.
 
-Execute o servidor backend:
+### Configure o MongoDB:
+Certifique-se de que o MongoDB está rodando na porta padrão 27017.
 
-bash
-Copiar código
+### 3. Execute o servidor backend:
 npm start
 O servidor estará rodando na porta 5000.
 
-Instale as dependências no diretório frontend:
+### 4. Instale as dependências no diretório frontend:
 
-bash
-Copiar código
 cd ../frontend
 npm install
-Compile o CSS com Tailwind:
 
-bash
-Copiar código
+### 5. Compile o CSS com Tailwind:
 npm run build:css
-Execute o frontend:
 
-bash
-Copiar código
+### 6. Execute o frontend:
 npm start
+
 O frontend estará disponível na porta 3000 (http://localhost:3000).
 
-Estrutura do Projeto
+## Estrutura do Projeto
+
 backend/: Código-fonte do servidor Node.js com Express, que gerencia as rotas e o banco de dados MongoDB.
 index.js: Arquivo principal do servidor.
 models/: Contém os modelos do MongoDB (ex: BusRoute).
+
 frontend/: Código-fonte do frontend em React.js.
 src/components/: Contém os componentes React como Form, Map, NavBar.
 src/styles/: Estilos com Tailwind CSS.
-Testando a API com Postman
+
+### Testando a API com Postman
+
 Abra o Postman e crie uma nova coleção para suas requisições.
+
 Adicione as seguintes rotas para teste:
+
 Buscar Rota: GET http://localhost:5000/bus/route/:busCode
+
 Buscar Próximo Ônibus: GET http://localhost:5000/bus/nextbus?busCode=BUS_CODE&currentTime=HORARIO&day=DIA
-Contribuição
-Faça um fork do projeto.
-Crie um branch com sua feature:
-bash
-Copiar código
-git checkout -b minha-feature
-Faça um commit das suas mudanças:
-bash
-Copiar código
-git commit -m 'Minha nova feature'
-Faça um push para o branch:
-bash
-Copiar código
-git push origin minha-feature
-Abra um pull request.
-Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Informações Adicionais
-Instalação e Configuração
-Instale as dependências no diretório backend:
 
-bash
-Copiar código
-cd backend
-npm install
-Configure o MongoDB: Certifique-se de que o MongoDB está rodando na porta padrão 27017.
-
-Execute o servidor backend:
-
-bash
-Copiar código
-npm start
-O servidor estará rodando na porta 5000.
-
-Instale as dependências no diretório frontend:
-
-bash
-Copiar código
-cd ../frontend
-npm install
-Compile o CSS com Tailwind:
-
-bash
-Copiar código
-npm run build:css
-Execute o frontend:
-
-bash
-Copiar código
-npm start
-O frontend estará disponível na porta 3000 (http://localhost:3000).
-
-Estrutura do Projeto
-backend/: Código-fonte do servidor Node.js com Express, que gerencia as rotas e o banco de dados MongoDB.
-
-index.js: Arquivo principal do servidor.
-models/: Contém os modelos do MongoDB (ex: BusRoute).
-frontend/: Código-fonte do frontend em React.js.
-
-src/components/: Contém os componentes React como Form, Map, NavBar.
-src/styles/: Estilos com Tailwind CSS.
-Testando a API com Postman
-Abra o Postman e crie uma nova coleção para suas requisições.
-Adicione as seguintes rotas para teste:
-Buscar Rota: GET http://localhost:5000/bus/route/:busCode
-Buscar Próximo Ônibus: GET http://localhost:5000/bus/nextbus?busCode=BUS_CODE&currentTime=HORARIO&day=DIA
-Contribuindo
-Faça um fork do projeto e crie um branch para suas alterações.
-Crie um pull request para que as mudanças possam ser revisadas.
 
