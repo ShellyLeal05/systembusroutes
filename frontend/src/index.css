@@ -1,0 +1,15 @@
+/* src/styles/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('/assets/bg-city-logo.png'); /* Adicione o caminho correto da sua imagem */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Isso cria o efeito de parallax */
+  opacity: 0.9;
+}
+
+
+

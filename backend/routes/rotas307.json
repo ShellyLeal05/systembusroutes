@@ -1,0 +1,40 @@
+{
+    "busCode": "307",
+    "origin": "Rua Governador Félix Valois de Araújo 151",
+    "destination": "Terminal Centro",
+    "routes": [
+      {
+        "departureLocation": "Rua Governador Félix Valois de Araújo 151",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "05:40", "06:13", "06:50", "07:30", "12:00", "12:47", "17:17", "18:02"
+        ]
+      },
+      {
+        "departureLocation": "Rua Governador Félix Valois de Araújo 151",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Sábados",
+        "times": [
+          "06:20", "07:20", "12:12", "13:02", "17:37"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Raiar do Sol Direto – São Bento",
+        "days": "Dias Úteis",
+        "times": [
+          "06:33", "07:15", "11:45", "12:30", "17:00", "17:45"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Raiar do Sol Direto – São Bento/Brigadeiro",
+        "days": "Dias Úteis",
+        "times": [
+          "18:30"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "busCode": "305",
+    "origin": "Terminal Centro",
+    "destination": "Operário / Copaíbas",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Operário / Copaíbas",
+        "days": "Dias Úteis",
+        "times": [
+          "06:50", "11:55", "12:40", "17:20", "18:35"
+        ]
+      },
+      {
+        "departureLocation": "Rua João Pessoa 24",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "05:45", "06:25", "07:20", "12:23", "17:48"
+        ]
+      }
+    ]
+  }
+  

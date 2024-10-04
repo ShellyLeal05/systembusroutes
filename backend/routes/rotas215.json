@@ -1,0 +1,115 @@
+{
+    "busCode": "215",
+    "origin": "Terminal Centro",
+    "destination": "Pérola / Nova Cidade",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Pérola / Nova Cidade",
+        "days": "Dias Úteis",
+        "times": [
+          "06:02", "06:25", "06:50", "07:30", "08:10", "08:50", "09:30", "10:05", 
+          "10:40", "11:05", "11:30", "11:50", "12:15", "12:45", "13:45", "14:55", 
+          "16:00", "16:30", "17:00", "17:30", "17:55", "18:15", "18:40", "19:05", 
+          "19:45", "21:10", "21:55"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Pérola / Nova Cidade",
+        "days": "Sábados",
+        "times": [
+          "06:25", "07:15", "08:05", "08:55", "09:45", "10:30", "11:15", "12:00", 
+          "12:45", "13:30", "14:15", "15:00", "15:45", "16:30", "17:15", "18:00", 
+          "18:45", "19:30", "21:00", "21:45"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Pérola / Nova Cidade",
+        "days": "Domingos e Feriados",
+        "times": [
+          "06:30", "07:25", "08:30", "09:30", "10:30", "11:30", "12:30", "13:30", 
+          "14:30", "15:30", "16:30", "17:25", "19:15", "21:55"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Encerra Pérola – Pérola via Ajuricaba",
+        "days": "Dias Úteis",
+        "times": [
+          "20:25", "22:35", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Encerra Pérola – Pérola via Ajuricaba",
+        "days": "Sábados",
+        "times": [
+          "20:15", "22:30", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Encerra Pérola – Pérola via Ajuricaba",
+        "days": "Domingos e Feriados",
+        "times": [
+          "18:20", "20:35", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal via Ajuricaba",
+        "days": "Dias Úteis",
+        "times": [
+          "05:06", "12:17", "13:58", "15:03", "16:13"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal via Ajuricaba",
+        "days": "Sábados",
+        "times": [
+          "05:25"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal via Ajuricaba",
+        "days": "Domingos e Feriados",
+        "times": [
+          "05:25", "06:10", "12:06", "13:06"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "06:41", "07:04", "07:32", "08:09", "08:49", "09:29", "10:09", "10:49", 
+          "11:24", "11:52", "12:37", "13:02", "13:32", "14:32", "15:42", "16:47", 
+          "17:17", "19:05", "19:52", "20:32", "21:50", "22:35"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Sábados",
+        "times": [
+          "05:50", "06:19", "06:59", "07:49", "08:39", "09:29", "10:22", "11:10", 
+          "11:55", "12:40", "13:25", "14:10", "14:55", "15:40", "16:25", "17:10", 
+          "17:55", "18:40", "19:25", "20:10", "21:34", "22:19"
+        ]
+      },
+      {
+        "departureLocation": "Rua NC Quatorze 444",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Domingos e Feriados",
+        "times": [
+          "07:08", "08:03", "09:08", "10:08", "11:08", "14:08", "15:08", "16:08", 
+          "17:08", "18:05", "19:50", "22:30"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,124 @@
+{
+    "busCode": "308",
+    "origin": "Terminal Centro",
+    "destination": "Cauamé",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Cauamé",
+        "days": "Dias Úteis",
+        "times": [
+          "06:15", "06:40", "07:20", "08:00", "08:40", "09:20", "10:00", "10:35", 
+          "11:00", "11:25", "11:50", "12:15", "12:40", "13:05", "13:35", "14:10", 
+          "14:45", "15:20", "15:55", "16:25", "16:55", "17:20", "17:45", "18:05", 
+          "18:25", "22:30", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Cauamé",
+        "days": "Sábados",
+        "times": [
+          "07:25", "08:20", "09:15", "10:05", "10:55", "11:45", "12:30", "13:15", 
+          "14:00", "14:45", "15:30", "16:15", "17:00", "17:45", "18:30", "19:15", 
+          "20:10", "21:05", "22:00", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Cauamé",
+        "days": "Domingos e Feriados",
+        "times": [
+          "06:55", "08:00", "09:05", "10:10", "11:10", "12:10", "13:10", "14:10", 
+          "15:10", "16:10", "17:10", "18:05", "19:00", "20:15", "21:45", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Cauamé - Monte Cristo",
+        "days": "Dias Úteis",
+        "times": [
+          "09:20"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Cauamé via Campus UFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "18:50", "19:30", "20:15", "21:00", "21:45"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "05:23", "05:44", "06:16", "06:40", "07:05", "08:30", "09:10", "10:30", 
+          "11:05", "11:30", "11:57", "12:22", "12:47", "13:12", "13:37", "14:05", 
+          "14:40", "15:15", "15:50", "16:25", "16:55", "17:25", "17:52", "18:17", 
+          "22:13"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Sábados",
+        "times": [
+          "05:52", "06:37", "07:22", "08:09", "08:56", "09:51", "10:41", "11:31", 
+          "12:25", "13:10", "13:55", "14:40", "15:25", "16:10", "16:55", "17:49", 
+          "18:29", "19:19", "20:04", "20:54", "21:43", "22:38"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Domingos e Feriados",
+        "times": [
+          "05:53", "09:35", "10:40", "11:40", "12:40", "13:40", "14:40", "15:40", 
+          "16:40", "20:46", "22:16"
+        ]
+      },
+      {
+        "departureLocation": "Rua Village",
+        "arrivalLocation": "Terminal Centro via Monte Cristo",
+        "days": "Dias Úteis",
+        "times": [
+          "05:56", "09:50"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro via Serra Verde",
+        "days": "Dias Úteis",
+        "times": [
+          "07:50"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro via Serra Verde",
+        "days": "Sábados",
+        "times": [
+          "07:54", "17:35", "19:05", "19:50"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro via Serra Verde",
+        "days": "Domingos e Feriados",
+        "times": [
+          "06:31", "07:21", "08:26", "17:40", "18:38", "19:31"
+        ]
+      },
+      {
+        "departureLocation": "Av. João Alencar",
+        "arrivalLocation": "Terminal Centro via Campus UFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "18:57", "19:22", "20:43", "21:28"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,56 @@
+{
+    "busCode": "208",
+    "origin": "Terminal Centro",
+    "destination": "Monte Cristo / Serra Verde",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Monte Cristo via Serra Verde",
+        "days": "Dias Úteis",
+        "times": [
+          "06:58", "07:25", "13:15", "17:15", "18:40"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Monte Cristo via Serra Verde",
+        "days": "Sábados",
+        "times": [
+          "06:40", "11:30"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Monte Cristo",
+        "days": "Dias Úteis",
+        "times": [
+          "07:25", "15:30"
+        ]
+      },
+      {
+        "departureLocation": "Rua Village",
+        "arrivalLocation": "Terminal Centro via Serra Verde",
+        "days": "Dias Úteis",
+        "times": [
+          "06:16", "07:32", "12:00", "13:50", "18:00"
+        ]
+      },
+      {
+        "departureLocation": "Rua Village",
+        "arrivalLocation": "Terminal Centro via Serra Verde",
+        "days": "Sábados",
+        "times": [
+          "12:00"
+        ]
+      },
+      {
+        "departureLocation": "Rua Village",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "16:00"
+        ]
+      }
+    ]
+  }
+  

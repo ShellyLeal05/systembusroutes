@@ -1,0 +1,110 @@
+{
+    "busCode": "112",
+    "origin": "Avenida Raimundo Rodrigues Coelho 2083",
+    "destination": "Caçari",
+    "routes": [
+      {
+        "departureLocation": "Avenida Raimundo Rodrigues Coelho 2083",
+        "arrivalLocation": "Caçari",
+        "days": "Dias Úteis",
+        "times": [
+          "05:23", "06:28", "06:42", "06:55", "07:10", "07:30", "07:55", "08:25",
+          "08:58", "09:38", "10:18", "10:58", "11:27", "11:57", "12:15", "12:35",
+          "13:05", "13:39", "14:09", "14:39", "15:14", "15:44", "16:14", "17:14",
+          "18:48", "19:43", "20:31", "21:16", "22:02"
+        ]
+      },
+      {
+        "departureLocation": "Avenida Raimundo Rodrigues Coelho 2083",
+        "arrivalLocation": "Caçari",
+        "days": "Sábados",
+        "times": [
+          "05:45", "06:10", "07:07", "07:50", "08:44", "09:34", "10:24", "11:14",
+          "12:04", "12:49", "13:34", "14:19", "15:49", "17:19", "18:04", "18:59",
+          "19:59", "21:05", "22:00"
+        ]
+      },
+      {
+        "departureLocation": "Avenida Raimundo Rodrigues Coelho 2083",
+        "arrivalLocation": "Caçari",
+        "days": "Domingos e Feriados",
+        "times": [
+          "06:03", "06:40", "07:25", "08:10", "09:22", "10:27", "11:27", "12:27",
+          "13:27", "14:27", "15:27", "16:27", "17:27", "18:22", "19:17", "20:17",
+          "22:20"
+        ]
+      },
+      {
+        "departureLocation": "Avenida Raimundo Rodrigues Coelho 2083",
+        "arrivalLocation": "Caçari via Pq.Caçari",
+        "days": "Dias Úteis",
+        "times": ["05:55", "06:12"]
+      },
+      {
+        "departureLocation": "Avenida Raimundo Rodrigues Coelho 2083",
+        "arrivalLocation": "Caçari via Pq.Caçari",
+        "days": "Sábados",
+        "times": ["06:37", "15:04", "16:34"]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial",
+        "days": "Domingos e Feriados",
+        "times": ["06:40", "07:22", "08:27", "09:32"]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial",
+        "days": "Dias Úteis",
+        "times": ["06:25", "06:55", "07:25", "08:00", "08:40"]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial",
+        "days": "Sábados",
+        "times": ["06:40", "07:30", "08:20", "09:15"]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial via Garden",
+        "days": "Dias Úteis",
+        "times": [
+          "09:15", "09:55", "10:20", "10:45", "11:00", "11:20", "11:45", "12:12",
+          "12:42", "13:12", "13:47", "14:22", "14:57", "16:32", "17:15", "18:05",
+          "18:25", "18:55", "19:30", "20:10", "20:50", "21:30", "22:10", "22:52"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial via Garden",
+        "days": "Sábados",
+        "times": [
+          "10:00", "10:50", "11:35", "12:20", "13:05", "13:50", "14:35", "15:20",
+          "16:05", "16:50", "17:35", "18:20", "19:10", "20:05", "21:00", "21:57",
+          "22:52"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial via Garden",
+        "days": "Domingos e Feriados",
+        "times": [
+          "10:27", "11:27", "12:27", "13:27", "14:27", "15:27", "16:27", "17:22",
+          "18:17", "19:17", "20:22", "21:27", "23:00"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial via Pq.Caçari",
+        "days": "Dias Úteis",
+        "times": ["15:22", "15:52", "16:47", "17:15", "17:30"]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Equatorial via Pq.Caçari",
+        "days": "Sábados",
+        "times": ["06:37", "15:04", "16:34"]
+      }
+    ]
+  }
+  

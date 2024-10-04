@@ -1,0 +1,40 @@
+{
+    "busCode": "206",
+    "origin": "Terminal Centro",
+    "destination": "Caranã / João de Barro",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Caranã / João de Barro",
+        "days": "Dias Úteis",
+        "times": [
+          "06:15", "06:55", "07:30", "08:05", "11:55", "12:45", "16:15", "17:10", "18:00", "18:50"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Caranã / João de Barro",
+        "days": "Sábados",
+        "times": [
+          "06:40", "12:20", "17:00", "18:35"
+        ]
+      },
+      {
+        "departureLocation": "Avenida Dom Aparecido José Dias 1515",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "05:29", "06:09", "06:51", "07:31", "12:38", "13:24", "16:54", "17:49"
+        ]
+      },
+      {
+        "departureLocation": "Avenida Dom Aparecido José Dias 1515",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Sábados",
+        "times": [
+          "05:54", "07:14", "13:03", "17:43"
+        ]
+      }
+    ]
+  }
+  

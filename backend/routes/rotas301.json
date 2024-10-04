@@ -1,0 +1,66 @@
+{
+    "busCode": "301",
+    "origin": "Terminal Centro",
+    "destination": "Silvio Botelho / Bacabeira",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Silvio Botelho",
+        "days": "Dias Úteis",
+        "times": [
+          "06:10", "09:45"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Silvio Botelho via Bacabeira",
+        "days": "Dias Úteis",
+        "times": [
+          "07:10", "07:45", "08:20", "09:00", "11:15", "13:00", "13:38", "14:13",
+          "14:45", "15:15", "15:45", "16:15", "16:40"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Silvio Botelho via Bacabeira",
+        "days": "Sábados",
+        "times": [
+          "07:10", "08:00", "08:50", "11:57", "14:15", "17:12", "18:42"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Silvio Botelho via IFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "11:35", "12:00", "12:25", "17:05", "17:25", "17:50", "18:15", "18:40"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Paraviana via Bacabeira",
+        "days": "Dias Úteis",
+        "times": [
+          "05:41", "05:58", "06:13", "06:27", "06:45", "07:05", "07:25", "10:30",
+          "11:10", "12:55", "13:25", "13:55", "14:35", "15:15", "15:50"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Paraviana via Bacabeira",
+        "days": "Sábados",
+        "times": [
+          "06:10", "06:45", "07:20", "10:43", "13:05", "16:05", "17:35"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Paraviana via Bacabeira via IFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "11:40", "12:05", "12:25", "16:20", "16:48", "17:28"
+        ]
+      }
+    ]
+  }
+  

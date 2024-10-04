@@ -1,0 +1,42 @@
+{
+    "busCode": "502",
+    "origin": "Rua Peroba 491",
+    "destination": "Circular Cidadão 02",
+    "routes": [
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Circular Cidadão 02",
+        "days": "Dias Úteis",
+        "times": [
+          "06:40", "10:52", "11:17", "11:42", "15:22", "15:52", "16:22", "16:47", 
+          "17:27", "18:17"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Circular Cidadão 02",
+        "days": "Sábados",
+        "times": [
+          "06:45", "12:40", "16:25", "17:55"
+        ]
+      },
+      {
+        "departureLocation": "Rua Izidio Galdino da Silva 2015B",
+        "arrivalLocation": "Paraviana 02",
+        "days": "Dias Úteis",
+        "times": [
+          "05:38", "05:59", "06:19", "06:49", "07:23", "11:54", "12:19", "12:44", 
+          "16:19", "16:49"
+        ]
+      },
+      {
+        "departureLocation": "Rua Izidio Galdino da Silva 2015B",
+        "arrivalLocation": "Paraviana 02",
+        "days": "Sábados",
+        "times": [
+          "06:06", "06:38", "07:15", "13:38"
+        ]
+      }
+    ]
+  }
+  

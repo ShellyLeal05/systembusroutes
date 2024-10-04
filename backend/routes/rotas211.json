@@ -1,0 +1,24 @@
+{
+    "busCode": "211",
+    "origin": "Rua Governador Félix Valois de Araújo 151",
+    "destination": "Terminal Centro via Jóquei Clube",
+    "routes": [
+      {
+        "departureLocation": "Rua Governador Félix Valois de Araújo 151",
+        "arrivalLocation": "Terminal Centro via Jóquei Clube",
+        "days": "Dias Úteis",
+        "times": [
+          "06:55", "11:30", "12:10", "12:55", "17:10", "17:55", "18:45"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "São Bento via Jóquei Clube",
+        "days": "Dias Úteis",
+        "times": [
+          "05:52", "06:25", "07:10", "11:48", "12:28", "13:15", "17:27", "18:15", "19:05"
+        ]
+      }
+    ]
+  }
+  

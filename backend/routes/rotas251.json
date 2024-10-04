@@ -1,0 +1,78 @@
+{
+    "busCode": "251",
+    "origin": "Terminal Centro",
+    "destination": "Laura Moreira",
+    "routes": [
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Laura Moreira via IFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "06:20", "07:00"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Laura Moreira",
+        "days": "Dias Úteis",
+        "times": [
+          "10:00", "10:40", "11:20", "19:35", "20:15", "21:00", "21:45", "22:30", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Laura Moreira",
+        "days": "Sábados",
+        "times": [
+          "06:40", "10:00", "10:50", "11:35", "13:10", "13:50", "15:20", "16:05", 
+          "16:50", "18:20", "20:00", "21:00", "22:00", "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Terminal Centro",
+        "arrivalLocation": "Laura Moreira",
+        "days": "Domingos e Feriados",
+        "times": [
+          "06:20", "07:20", "08:25", "09:30", "10:30", "11:30", "12:30", "13:30", 
+          "14:30", "15:30", "16:30", "17:25", "18:20", "19:15", "20:35", "21:55", 
+          "23:15"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Dias Úteis",
+        "times": [
+          "05:18", "08:01", "08:36", "09:16", "10:30", "19:00", "19:48", "20:35", 
+          "21:20", "22:03"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Sábados",
+        "times": [
+          "05:37", "08:11", "09:03", "09:53", "11:33", "12:20", "13:55", "14:35", 
+          "15:20", "16:50", "18:25", "19:25", "21:03", "22:40"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Terminal Centro",
+        "days": "Domingos e Feriados",
+        "times": [
+          "05:35", "06:18", "07:13", "08:23", "09:28", "10:33", "11:33", "12:33", 
+          "13:33", "14:33", "15:33", "16:33", "17:33", "18:28", "19:56", "22:36"
+        ]
+      },
+      {
+        "departureLocation": "Rua CC-32 259",
+        "arrivalLocation": "Terminal Centro via IFRR",
+        "days": "Dias Úteis",
+        "times": [
+          "18:08"
+        ]
+      }
+    ]
+  }
+  

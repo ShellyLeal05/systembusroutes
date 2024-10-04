@@ -1,0 +1,42 @@
+{
+    "busCode": "501",
+    "origin": "Rua Peroba 491",
+    "destination": "Circular Cidadão 01",
+    "routes": [
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Circular Cidadão 01",
+        "days": "Dias Úteis",
+        "times": [
+          "06:35", "07:00", "10:55", "11:18", "11:43", "15:43", "16:33", "17:18",
+          "17:43", "18:30"
+        ]
+      },
+      {
+        "departureLocation": "Rua Peroba 491",
+        "arrivalLocation": "Circular Cidadão 01",
+        "days": "Sábados",
+        "times": [
+          "06:55", "12:23", "16:53", "18:23"
+        ]
+      },
+      {
+        "departureLocation": "Avenida General Ataíde Teive, 10238",
+        "arrivalLocation": "Circular Paraviana 01",
+        "days": "Dias Úteis",
+        "times": [
+          "05:26", "05:43", "06:03", "06:23", "06:43", "07:15", "07:43", "11:48",
+          "12:13", "12:38", "16:31", "17:21"
+        ]
+      },
+      {
+        "departureLocation": "Avenida General Ataíde Teive, 10238",
+        "arrivalLocation": "Circular Paraviana 01",
+        "days": "Sábados",
+        "times": [
+          "05:55", "06:25", "06:55", "07:38", "13:10"
+        ]
+      }
+    ]
+  }
+  
